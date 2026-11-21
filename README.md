@@ -1,6 +1,3 @@
-## Équipe
-Projet réalisé en équipe avec [NohaBT](https://github.com/NohaBT).
-
 # NeuroDetect 🧠
 
 **NeuroDetect** est une application de bureau interactive et moderne conçue pour la détection et la classification des tumeurs cérébrales à partir d'images d'imagerie par résonance magnétique (IRM) à l'aide du Deep Learning.
@@ -11,6 +8,8 @@ L'application utilise un modèle **MobileNetV2** pour classifier les images IRM 
 *   **Tumeur hypophysaire** (Pituitary tumor)
 *   **Sain / Aucune tumeur** (No tumor)
 
+## Équipe
+Projet réalisé en équipe avec [NohaBT](https://github.com/NohaBT).
 ## 🚀 Fonctionnalités principales
 
 L'application propose trois espaces adaptés à différents profils d'utilisateurs :
